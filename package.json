@@ -1,0 +1,23 @@
+{
+  "name": "node-crud-helper",
+  "version": "1.0.0",
+  "description": "helper module to enable FS crud operations",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdelrahmanElmasry/CRUD-HELPER.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "AbdelrahmanElmasry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdelrahmanElmasry/CRUD-HELPER/issues"
+  },
+  "homepage": "https://github.com/AbdelrahmanElmasry/CRUD-HELPER#readme"
+}
